@@ -1,0 +1,4 @@
+
+TEMPLATE_REPLACE=../mtb_shared/core-make/release-v3.7.0/make/scripts/interface_version_4/vscode/tasks_internal.json=.vscode/tasks.json
+TEMPLATE_REPLACE=../mtb_shared/recipe-make-cat1a/release-v2.6.0/make/scripts/interface_version_4/vscode/CMx/KitProg3/launch.json=.vscode/launch.json
+MERGE_LAUNCH_JSON=.vscode/launch.json=.vscode/launch.json

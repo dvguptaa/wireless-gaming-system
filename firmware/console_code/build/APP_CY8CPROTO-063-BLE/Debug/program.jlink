@@ -1,0 +1,6 @@
+Connect
+exec EnableEraseAllFlashBanks
+LoadFile /Users/dvgupta/Desktop/FINAL_console_code/453_final_console_code/build/last_config/mtb-example-btstack-freertos-cts-client.hex 0 reset
+Reset
+Go
+Exit

@@ -1,0 +1,1 @@
+TEMPLATE_REPLACE=../mtb_shared/recipe-make-cat1a/release-v2.6.0/make/scripts/interface_version_4/vscode/CMx/openocd.tcl=openocd.tcl

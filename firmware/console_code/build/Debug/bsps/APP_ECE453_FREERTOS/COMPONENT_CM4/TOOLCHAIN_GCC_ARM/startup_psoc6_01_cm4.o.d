@@ -1,0 +1,2 @@
+/Users/rafa/Desktop/Bluetooth_client/Bluetooth_LE_CTS_Client/build/Debug/bsps/APP_ECE453_FREERTOS/COMPONENT_CM4/TOOLCHAIN_GCC_ARM/startup_psoc6_01_cm4.o: \
+ /Users/rafa/Desktop/Bluetooth_client/Bluetooth_LE_CTS_Client/bsps/TARGET_APP_ECE453_FREERTOS/COMPONENT_CM4/TOOLCHAIN_GCC_ARM/startup_psoc6_01_cm4.S
